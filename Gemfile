@@ -20,6 +20,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 gem 'jwt'
 gem 'simple_command'
+gem 'carrierwave'
+gem 'carrierwave-base64'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
