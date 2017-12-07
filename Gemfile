@@ -22,6 +22,7 @@ gem 'jwt'
 gem 'simple_command'
 gem 'carrierwave'
 gem 'carrierwave-base64'
+gem 'google-cloud-vision'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
